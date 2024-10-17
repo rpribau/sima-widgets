@@ -65,7 +65,7 @@ def run():
             # Gráfico de barras y líneas para comparar predicciones y valores reales (últimos 120 datos)
             fig = go.Figure()
             fig.add_trace(go.Bar(x=df_test_last_120['date'], y=y_test_last_120, name='Valores Reales'))
-            fig.add_trace(go.Scatter(x=df_test_last_120['date'], y=y_pred_last_120, mode='lines', name='Predicciones'))
+            fig.add_trace(go.Scatter(x=df_test_last_120['date'], y=y_pred_last_120, mode='lines', name='Predicciones', line=dict(color='red')))
 
             fig.update_layout(title=f"Comparación de {componente_estacion} (Últimos 120 datos): Predicción vs Real",
                             xaxis_title='Fecha', yaxis_title='Concentración')
