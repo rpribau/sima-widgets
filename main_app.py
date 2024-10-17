@@ -8,8 +8,8 @@ opcion = st.sidebar.selectbox("Selecciona una pestaña", ["Estación Centro", "E
 
 # Lógica para la pestaña seleccionada
 if opcion == "Estación Centro":
-    st.title("Aplicación - Estación Centro")
+    st.title("Estación Centro")
     app_centro.run()  # Ejecuta la app de la estación "centro"
 elif opcion == "Estación Norte":
-    st.title("Aplicación - Estación Norte")
+    st.title("Estación Norte")
     app_norte.run()  # Ejecuta la app de la estación "norte"
