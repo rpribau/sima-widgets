@@ -1,0 +1,15 @@
+Resultados para PM2.5_noroeste
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 75.21898509529323
+Mean Absolute Error (MAE): 4.022244626817416
+R2 Score: 0.7935730119062229
+RMSE (Test): 8.672887932822217
+MAPE (Test): 30.355481831729964%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 10.635077991820745
+Mean Absolute Error (MAE): 1.5489956436246883
+R2 Score: 0.9635970044192212
+RMSE (Train): 3.261146729575464
+MAPE (Train): 11.403189698083704%

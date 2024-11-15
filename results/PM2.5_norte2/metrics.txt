@@ -1,0 +1,15 @@
+Resultados para PM2.5_norte2
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 72.92774483904326
+Mean Absolute Error (MAE): 6.08784843600873
+R2 Score: 0.7166731455685915
+RMSE (Test): 8.53977428501733
+MAPE (Test): 55.003736058037745%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 11.804991289296627
+Mean Absolute Error (MAE): 2.2949167762600853
+R2 Score: 0.9607865521445864
+RMSE (Train): 3.435839240898303
+MAPE (Train): 19.73953090024602%

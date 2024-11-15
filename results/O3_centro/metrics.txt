@@ -1,0 +1,15 @@
+Resultados para O3_centro
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 34.35416357799
+Mean Absolute Error (MAE): 4.036071927876098
+R2 Score: 0.91645978787252
+RMSE (Test): 5.861242494385469
+MAPE (Test): 20.061333081831723%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 5.4014064614797554
+Mean Absolute Error (MAE): 1.565277152293049
+R2 Score: 0.9870528270391267
+RMSE (Train): 2.3240926103491995
+MAPE (Train): 7.274315358495624%

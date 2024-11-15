@@ -1,0 +1,15 @@
+Resultados para CO_centro
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 0.03513653644970173
+Mean Absolute Error (MAE): 0.1105598688536478
+R2 Score: 0.9468452834770827
+RMSE (Test): 0.1874474231610073
+MAPE (Test): 8.684483033688197%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 0.004772076522936084
+Mean Absolute Error (MAE): 0.04086272579801367
+R2 Score: 0.9932705655570431
+RMSE (Train): 0.0690802180290138
+MAPE (Train): 3.2448904138351455%

@@ -1,0 +1,15 @@
+Resultados para NO_centro
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 3.2915754595560456
+Mean Absolute Error (MAE): 0.5920228521292279
+R2 Score: 0.9825908980297846
+RMSE (Test): 1.8142699522276295
+MAPE (Test): 9.365074715771685%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 0.7428237011777719
+Mean Absolute Error (MAE): 0.21859160909767977
+R2 Score: 0.9961419401575419
+RMSE (Train): 0.8618722069876553
+MAPE (Train): 3.5219266278552097%

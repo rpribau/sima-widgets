@@ -1,0 +1,15 @@
+Resultados para NO_noroeste2
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 1.3317015100238787
+Mean Absolute Error (MAE): 0.34379687748498106
+R2 Score: 0.9884431881186407
+RMSE (Test): 1.1539937218303566
+MAPE (Test): 5.855843095717168%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 0.2977990180933406
+Mean Absolute Error (MAE): 0.13247037716640966
+R2 Score: 0.9974916180334494
+RMSE (Train): 0.5457096463260849
+MAPE (Train): 2.209609634588491%

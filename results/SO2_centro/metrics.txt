@@ -1,0 +1,15 @@
+Resultados para SO2_centro
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 1.1248067357520823
+Mean Absolute Error (MAE): 0.5428464566363951
+R2 Score: 0.71236135392336
+RMSE (Test): 1.06056906222654
+MAPE (Test): 12.771058870901411%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 0.17960658261281345
+Mean Absolute Error (MAE): 0.20652161975858446
+R2 Score: 0.9548170433563008
+RMSE (Train): 0.42380016825481964
+MAPE (Train): 4.757260619281688%

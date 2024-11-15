@@ -1,0 +1,15 @@
+Resultados para SO2_norte2
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 1.3058877643961642
+Mean Absolute Error (MAE): 0.629814349647099
+R2 Score: 0.6363423773969631
+RMSE (Test): 1.1427544637393303
+MAPE (Test): 14.208318120694186%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 0.27793540609652817
+Mean Absolute Error (MAE): 0.25831774719445516
+R2 Score: 0.9485964222166043
+RMSE (Train): 0.5271957948395721
+MAPE (Train): 5.6440563090948785%

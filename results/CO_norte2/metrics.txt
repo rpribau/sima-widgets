@@ -1,0 +1,15 @@
+Resultados para CO_norte2
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 0.03526085603620603
+Mean Absolute Error (MAE): 0.10919412977131839
+R2 Score: 0.9024226035641252
+RMSE (Test): 0.18777874223725655
+MAPE (Test): 36.71940130998515%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 0.004871211430270901
+Mean Absolute Error (MAE): 0.040491261670013816
+R2 Score: 0.9870189831662475
+RMSE (Train): 0.06979406443438368
+MAPE (Train): inf%

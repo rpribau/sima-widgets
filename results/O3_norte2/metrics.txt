@@ -1,0 +1,15 @@
+Resultados para O3_norte2
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 21.642560884398193
+Mean Absolute Error (MAE): 2.941597683333673
+R2 Score: 0.9260628301957128
+RMSE (Test): 4.652156584251888
+MAPE (Test): 14.283056872774821%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 3.409374506364838
+Mean Absolute Error (MAE): 1.1435046166163814
+R2 Score: 0.9887726233989339
+RMSE (Train): 1.846449161597697
+MAPE (Train): 5.523875532416817%

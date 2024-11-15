@@ -1,0 +1,15 @@
+Resultados para NOX_norte
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 1.7959213407142691
+Mean Absolute Error (MAE): 0.3499255687301831
+R2 Score: 0.9983877062365034
+RMSE (Test): 1.3401198978875992
+MAPE (Test): 0.8949957071159318%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 0.2953612205589642
+Mean Absolute Error (MAE): 0.13200192140965433
+R2 Score: 0.999709124924273
+RMSE (Train): 0.5434714533063941
+MAPE (Train): 0.347787094997073%

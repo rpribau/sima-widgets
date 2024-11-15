@@ -1,0 +1,15 @@
+Resultados para NO2_centro
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 2.855124334800947
+Mean Absolute Error (MAE): 0.6383563518848527
+R2 Score: 0.9752679830108779
+RMSE (Test): 1.6897113170009093
+MAPE (Test): 4.26331469327477%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 0.3460230518217898
+Mean Absolute Error (MAE): 0.22946720138391674
+R2 Score: 0.9970345447004529
+RMSE (Train): 0.5882372411041227
+MAPE (Train): 1.120986411982852%

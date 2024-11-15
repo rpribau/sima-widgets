@@ -1,0 +1,15 @@
+Resultados para PM10_noroeste
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 363.3236859118646
+Mean Absolute Error (MAE): 9.616869415761425
+R2 Score: 0.7613802488562439
+RMSE (Test): 19.061051542657992
+MAPE (Test): 26.97267140068605%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 49.606514952974806
+Mean Absolute Error (MAE): 3.6186642479336024
+R2 Score: 0.9644626073066832
+RMSE (Train): 7.04318926005647
+MAPE (Train): 9.672503882970013%

@@ -1,0 +1,15 @@
+Resultados para SO2_noreste3
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 3.8713799018749384
+Mean Absolute Error (MAE): 0.6761810665136847
+R2 Score: 0.611707994590954
+RMSE (Test): 1.9675822478043805
+MAPE (Test): 17.92379031686199%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 0.47832536968340233
+Mean Absolute Error (MAE): 0.25659264673541105
+R2 Score: 0.943267668055091
+RMSE (Train): 0.6916107067443378
+MAPE (Train): 6.806547914937484%

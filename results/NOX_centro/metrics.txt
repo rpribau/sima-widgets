@@ -1,0 +1,15 @@
+Resultados para NOX_centro
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 2.0989711451231434
+Mean Absolute Error (MAE): 0.3970268888091471
+R2 Score: 0.9953915214177129
+RMSE (Test): 1.4487826424702719
+MAPE (Test): 1.583909266492484%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 0.566330037085416
+Mean Absolute Error (MAE): 0.15628448148261176
+R2 Score: 0.9987912134122442
+RMSE (Train): 0.7525490263666653
+MAPE (Train): 0.5567548936286199%

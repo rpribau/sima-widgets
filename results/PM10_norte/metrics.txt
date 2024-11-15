@@ -1,0 +1,15 @@
+Resultados para PM10_norte
+
+Métricas del conjunto de prueba:
+Mean Squared Error (MSE): 487.6682568202926
+Mean Absolute Error (MAE): 12.91085297893311
+R2 Score: 0.7693973032339345
+RMSE (Test): 22.0832121037745
+MAPE (Test): 23.18601307526126%
+
+Métricas del conjunto de entrenamiento:
+Mean Squared Error (MSE): 66.3199131898985
+Mean Absolute Error (MAE): 4.581830185823089
+R2 Score: 0.9690418690443089
+RMSE (Train): 8.14370389871209
+MAPE (Train): 7.981485221264309%
